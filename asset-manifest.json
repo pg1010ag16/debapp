@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://pg1010ag16.github.io/debapp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "https://pg1010ag16.github.io/debapp/static/js/main.dfa052ac.chunk.js",
+    "main.js.map": "https://pg1010ag16.github.io/debapp/static/js/main.dfa052ac.chunk.js.map",
+    "runtime-main.js": "https://pg1010ag16.github.io/debapp/static/js/runtime-main.e2eaf6a2.js",
+    "runtime-main.js.map": "https://pg1010ag16.github.io/debapp/static/js/runtime-main.e2eaf6a2.js.map",
+    "static/js/2.309576f9.chunk.js": "https://pg1010ag16.github.io/debapp/static/js/2.309576f9.chunk.js",
+    "static/js/2.309576f9.chunk.js.map": "https://pg1010ag16.github.io/debapp/static/js/2.309576f9.chunk.js.map",
+    "index.html": "https://pg1010ag16.github.io/debapp/index.html",
+    "precache-manifest.f20834aabbf1894ceec9d6b5c1b5defe.js": "https://pg1010ag16.github.io/debapp/precache-manifest.f20834aabbf1894ceec9d6b5c1b5defe.js",
+    "service-worker.js": "https://pg1010ag16.github.io/debapp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "https://pg1010ag16.github.io/debapp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.309576f9.chunk.js.LICENSE.txt": "https://pg1010ag16.github.io/debapp/static/js/2.309576f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2eaf6a2.js",
+    "static/js/2.309576f9.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.dfa052ac.chunk.js"
+  ]
+}
